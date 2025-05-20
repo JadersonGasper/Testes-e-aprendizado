@@ -1,0 +1,15 @@
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\bin\Debug\net8.0\testeEtestes.exe
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\bin\Debug\net8.0\testeEtestes.deps.json
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\bin\Debug\net8.0\testeEtestes.runtimeconfig.json
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\bin\Debug\net8.0\testeEtestes.dll
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\bin\Debug\net8.0\testeEtestes.pdb
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.AssemblyInfoInputs.cache
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.AssemblyInfo.cs
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.csproj.CoreCompileInputs.cache
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.sourcelink.json
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.dll
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\refint\testeEtestes.dll
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.pdb
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\testeEtestes.genruntimeconfig.cache
+C:\Users\jader\source\repos\testeEtestes\testeEtestes\obj\Debug\net8.0\ref\testeEtestes.dll
