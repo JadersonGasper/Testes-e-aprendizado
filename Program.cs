@@ -18,6 +18,7 @@ class MainClass
         Console.WriteLine(p3.ObterTexto());
     }
 }
+//***********************************************************************
 class Produto
 {
     private string nome;
